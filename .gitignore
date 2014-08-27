@@ -1,7 +1,7 @@
 # Created by http://www.gitignore.io
 
 #!! ERROR: net is undefined. Use list command to see defined gitignore types !!#
-
+.DS_Store
 ### NetBeans ###
 nbproject/private/
 build/
