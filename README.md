@@ -1,6 +1,6 @@
 ##Java-Servlet Tutorial for beginners
 
-This repo structured with 5 different branches except master branch.
+This repo created with 5 different branches except master branch.
 
  - [level1 branch](https://github.com/okulbilisim/Java-Servlet/tree/level1)
  - [level2 branch](https://github.com/okulbilisim/Java-Servlet/tree/level2)
