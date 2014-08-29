@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ##Java-Servlet Tutorial for beginners
 
 This repo created with 5 different branches except master branch.
@@ -26,3 +27,16 @@ This repo helps you understand using database in Servlet Apps step by step
 
  - Making CRUD (Create - Read - Update - Delete) process in Servlet Apps.
 >>>>>>> level3
+=======
+##level4 branch
+
+This repo helps you understand all steps listed below
+
+ - Using Forms in Servlet 
+
+ - Session
+
+ - Validation
+
+ - Error handling.
+>>>>>>> level4
