@@ -1,1 +1,1 @@
-This is master README file
+Java-Servlet Tutorial for beginners
