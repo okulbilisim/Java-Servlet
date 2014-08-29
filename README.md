@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##Java-Servlet Tutorial for beginners
 
 This repo created with 5 different branches except master branch.
@@ -10,3 +11,18 @@ This repo created with 5 different branches except master branch.
 
  
 
+=======
+##level3 branch
+
+This repo helps you understand using database in Servlet Apps step by step
+
+ - Installing mysql on your computer
+
+ - Creating new DB and Table
+
+ - Using Select, Insert, Update, Delete queries in SQ Language
+
+ - Connect your Servlet app to DB via JDBC
+
+ - Making CRUD (Create - Read - Update - Delete) process in Servlet Apps.
+>>>>>>> level3
