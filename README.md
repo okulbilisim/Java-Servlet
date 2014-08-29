@@ -8,5 +8,4 @@ This repo created with 5 different branches except master branch.
  - [level4 branch](https://github.com/okulbilisim/Java-Servlet/tree/level4)
  - [level5 branch](https://github.com/okulbilisim/Java-Servlet/tree/level5)
 
- 
  You can see [Wiki](https://github.com/okulbilisim/Java-Servlet/wiki) docs.
