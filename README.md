@@ -1,6 +1,6 @@
 ##level5 branch
 
-This repo helps you to understan all the steps listed below 
+This repo helps you to understand all steps listed below 
 
  - Web page parser with jsoup
 
